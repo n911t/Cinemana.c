@@ -1,0 +1,18 @@
+{
+    "short_name": "Cinemana",
+    "name": "سينمانا شبكتي ⭐️",
+    "icons": [
+        {
+            "src": "512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#0f1115",
+    "theme_color": "#dc2626",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "categories": ["entertainment", "movies"]
+}
