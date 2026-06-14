@@ -1,6 +1,7 @@
 {
     "short_name": "Cinemana",
     "name": "سينمانا شبكتي ⭐️",
+    "description": "تطبيق الأفلام والمسلسلات وقنوات البث المباشر لشاشات التلفاز الذكية",
     "icons": [
         {
             "src": "512x512.png",
@@ -14,8 +15,5 @@
     "theme_color": "#dc2626",
     "display": "fullscreen",
     "orientation": "landscape",
-    "categories": [
-        "entertainment",
-        "movies"
-    ]
+    "categories": ["entertainment", "movies", "tv"]
 }
